@@ -1,0 +1,33 @@
+<lcgdict>
+  <class name="srothman::EECParticle"/>
+  <class name="std::vector<srothman::EECParticle>"/>
+  <class name="srothman::EECJet"/>
+  <class name="std::vector<srothman::EECJet>"/>
+  <class name="edm::Wrapper<std::vector<srothman::EECJet> >"/>
+
+  <class name="eec::JetMeta"/>
+  <class name="eec::BinEntry"/>
+  <class name="std::vector<eec::BinEntry>"/>
+  <class name="eec::UnmergedBinEntry"/>
+  <class name="std::vector<eec::UnmergedBinEntry>"/>
+  <class name="eec::UnbinnedEntry<1>"/>
+  <class name="eec::UnbinnedEntry<2>"/>
+  <class name="std::vector<eec::UnbinnedEntry<1> >"/>
+  <class name="std::vector<eec::UnbinnedEntry<2> >"/>
+
+  <class name="eec::DenseResult"/>
+  <class name="eec::SparseResult"/>
+  <class name="eec::SparseUnmergedResult"/>
+  <class name="eec::UnbinnedResult<1>"/>
+  <class name="eec::UnbinnedResult<2>"/>
+  <class name="std::vector<eec::DenseResult>"/>
+  <class name="std::vector<eec::SparseResult>"/>
+  <class name="std::vector<eec::SparseUnmergedResult>"/>
+  <class name="std::vector<eec::UnbinnedResult<1> >"/>
+  <class name="std::vector<eec::UnbinnedResult<2> >"/>
+  <class name="edm::Wrapper<std::vector<eec::DenseResult> >"/>
+  <class name="edm::Wrapper<std::vector<eec::SparseResult> >"/>
+  <class name="edm::Wrapper<std::vector<eec::SparseUnmergedResult> >"/>
+  <class name="edm::Wrapper<std::vector<eec::UnbinnedResult<1> > >"/>
+  <class name="edm::Wrapper<std::vector<eec::UnbinnedResult<2> > >"/>
+</lcgdict>

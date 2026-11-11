@@ -1,0 +1,5 @@
+<bin name="testSRothmanDataFormats" file="test_main.cc,test_conversion.cc,test_rootio.cc">
+  <use name="catch2"/>
+  <use name="root"/>
+  <use name="SRothman/DataFormats"/>
+</bin>
