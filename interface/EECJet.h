@@ -22,6 +22,8 @@ namespace srothman {
     // Index in the source jet collection.
     std::uint32_t srcIdx = 0;
     std::uint8_t jetIdBits = 0;
+    // Product of the JER smearing factors applied to the four-momentum (1 without smearing).
+    double jerFactor = 1;
     std::vector<EECParticle> constituents;
   };
 
