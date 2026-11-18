@@ -1,6 +1,8 @@
 <lcgdict>
   <class name="srothman::EECParticle"/>
   <class name="std::vector<srothman::EECParticle>"/>
+  <class name="srothman::EECAxis"/>
+  <class name="std::vector<srothman::EECAxis>"/>
   <class name="srothman::EECJet"/>
   <class name="std::vector<srothman::EECJet>"/>
   <class name="edm::Wrapper<std::vector<srothman::EECJet> >"/>
